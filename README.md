@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kumar Arumugam</h1>
+<h1 align="center">Hi 👋, I'm SanjayKumar Arumugam</h1>
 <h3 align="center">An insightful Data Engineer trying to mess with lots of data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay09876&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay09876" /> </p>
